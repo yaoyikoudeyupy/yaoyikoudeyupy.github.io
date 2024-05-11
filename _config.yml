@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-cn"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
