@@ -89,7 +89,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+b站: https://space.bilibili.com/1879898443?spm_id_from=333.1007.0.0
   username               :
   app_id                 :
   publisher              :
